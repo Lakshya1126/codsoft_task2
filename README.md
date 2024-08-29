@@ -1,2 +1,2 @@
 # codsoft_task2
-in this i created a basic chatbox which gives the result on the base of the input given by the user.
+The AI is designed to be unbeatable. It will either win or force a draw, ensuring that you can never win if it plays optimally.
